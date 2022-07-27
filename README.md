@@ -14,6 +14,7 @@ This is a good example of [my code](https://gist.github.com/ronlch87/d1797fe3d6c
 ### Colab Example
 
 This is the [notebook](https://github.com/ronlch87/tech_test/blob/main/tech_docs.ipynb)
+This is the second example of [jupyter notebook](https://www.coursera.org/learn/cloud-computing-foundations-duke/ungradedLab/jsPqx/create-markdown-in-jupyter/lab?path=%2Fnotebooks%2Fexample1.ipynb)
 
 ### Images
 
